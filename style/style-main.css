@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: whitesmoke;
+}
+
+#menu{
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+    font-family: 'Press Start 2P', cursive;
+    color: greenyellow;
+}
+
+#menu h1{
+    font-size: 80px;
+}
+
+img{
+    margin-right: 20px;
+}
+
+
+
