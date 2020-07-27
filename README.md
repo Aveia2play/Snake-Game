@@ -1,2 +1,3 @@
-# Snake Game 
-##Simple Snake game in Javascript
+# Snake Game
+
+## Simple Snake game in Javascript
