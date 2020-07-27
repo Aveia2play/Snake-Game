@@ -2,7 +2,8 @@
 ![](/src/github-files/playing.gif)
 
 ## Simple Snake game in Javascript
-A simple "game" made in basic javascript inspired by the **Snake Game**, an old game that became popular on *Nokia* phones
+A simple "game" made in basic javascript inspired by the **Snake Game**, an old game that became popular on *Nokia* phones:
+
 ![](/src/github-files/snake-nokia.png)
 
 ## How to play
